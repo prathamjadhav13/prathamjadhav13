@@ -27,8 +27,8 @@ A B.Tech student focused on Data Science and software development. I enjoy solvi
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRATHAMJADHAV13&show_icons=true&theme=transparent&hide_border=true" alt="Pratham's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamjadhav13&show_icons=true&theme=transparent&hide_border=true" alt="Pratham's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjadhav13&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
